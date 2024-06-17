@@ -52,9 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Enzo91080/Enzo91080/output/snake.svg" alt="Snake animation" />
 
 ###
 
